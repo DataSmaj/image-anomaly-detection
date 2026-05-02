@@ -28,3 +28,9 @@ Each image is divided into cells, and statistical thresholds are applied to iden
 This project showed how statistical concepts like confidence intervals can be applied to real-world data. It helped me understand how uncertainty and variation can be used to detect anomalies instead of relying on strict rules.
 
 
+## Files
+
+- '20110109104734Ch_01.jpeg' - Non-anomalous image
+- `20110116090734Lh.jpeg` - anomalous image
+- `anomaly_detection.py` - Python Code
+
