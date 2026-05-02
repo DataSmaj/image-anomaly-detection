@@ -27,8 +27,4 @@ Each image is divided into cells, and statistical thresholds are applied to iden
 
 This project showed how statistical concepts like confidence intervals can be applied to real-world data. It helped me understand how uncertainty and variation can be used to detect anomalies instead of relying on strict rules.
 
-## Files
 
-- (your main notebook or script here)
-- (data file if included)
-- (any report if included)
